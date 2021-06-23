@@ -1,1 +1,1 @@
-document.write("Hello from the Browser")
+console.log("Hi my name is Nikos");
