@@ -2,10 +2,10 @@
 
 let fruit = ["apple", "banana", "kiwi"];
 
-fruit.push("orange")
+fruit.push("orange");
 console.log(fruit);
 
-fruit.pop()
+fruit.pop();
 console.log(fruit);
 
 let animals = ["monkey", "horse", "dog"];
