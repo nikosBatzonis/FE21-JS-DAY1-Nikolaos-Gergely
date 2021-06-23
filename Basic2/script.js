@@ -1,1 +1,1 @@
-alert('Hi my name is Gergely');
+document.write('Hi my name is Gergely');
