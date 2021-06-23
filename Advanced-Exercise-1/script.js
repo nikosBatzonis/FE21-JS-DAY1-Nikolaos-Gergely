@@ -6,7 +6,7 @@ var c = "21";
 var d = '36';
 var e = 42;
 
-var sum = a + b + c + d + e;
+var sum = a + b + Number(c) + Number(d) + e;
 console.log(sum);
 
 var f = '1';
