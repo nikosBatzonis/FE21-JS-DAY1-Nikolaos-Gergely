@@ -25,7 +25,7 @@ document.write(`${arr1[0][0]} ${arr1[1][1]} ${arr1[2][2]} ${arr1[3][3]} ${arr1[4
 
 // document.write(arr1[0][0] + arr1[1][0] + arr1[1][1] + arr1[2][0] + arr1[2][2] + arr1[3][0] + arr1[3][3] + arr1[4][0] + arr1[4][4]);
 
-<<<<<<< HEAD
+//<<<<<<< HEAD
 // console.log(arr1);
 
 // console.log(arr1[0][0]);
@@ -33,13 +33,13 @@ document.write(`${arr1[0][0]} ${arr1[1][1]} ${arr1[2][2]} ${arr1[3][3]} ${arr1[4
 // console.log(arr1[2][2]);
 // console.log(arr1[3][3]);
 // console.log(arr1[4][4]);
-=======
-console.log(arr1[0][0]);
-console.log(arr1[1][1]);
-console.log(arr1[2][2]);
-console.log(arr1[3][3]);
-console.log(arr1[4][4]);
+//=======
+// console.log(arr1[0][0]);
+// console.log(arr1[1][1]);
+// console.log(arr1[2][2]);
+// console.log(arr1[3][3]);
+// console.log(arr1[4][4]);
 
-document.write(arr1[0][0] + " " + arr1[1][1] + " " + arr1[2][2] + " " + arr1[3][3] + " " + arr1[4][4]);
+// document.write(arr1[0][0] + " " + arr1[1][1] + " " + arr1[2][2] + " " + arr1[3][3] + " " + arr1[4][4]);
 
->>>>>>> 53fa928f8d33419d0381178d33dfed12c8479bb8
+//>>>>>>> 53fa928f8d33419d0381178d33dfed12c8479bb8
