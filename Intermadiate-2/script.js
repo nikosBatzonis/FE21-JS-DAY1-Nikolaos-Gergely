@@ -8,6 +8,7 @@ console.log(fruit);
 fruit.pop();
 console.log(fruit);
 
+
 let animals = ["monkey", "horse", "dog"];
 
 animals.sort();
